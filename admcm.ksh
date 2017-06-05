@@ -9,3 +9,4 @@ chown -R admcm:gcontent /home/admcm
 chattr +i /home/admcm/.kshrc
 chattr +i /home/admcm/.bashrc
 fi
+    
